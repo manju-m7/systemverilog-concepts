@@ -39,19 +39,9 @@ This happens because both `p1` and `p2` reference the same `Header` object.
 
 ---
 
-## Learning Outcome
-
-After this exercise, I understood:
-
-- The difference between copying object data and copying object handles.
-- How nested objects behave during a shallow copy.
-- Why deep copy is required when complete object independence is needed.
-
----
-
 ## Simulation Output
 
-![Simulation Output](output.png)
+![Simulation Output](shallow_copy.png)
 
 ---
 
