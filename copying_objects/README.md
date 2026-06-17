@@ -49,4 +49,4 @@ This happens because both `p1` and `p2` reference the same `Header` object.
 
 ChipVerify – SystemVerilog Copying Objects
 
-https://chipver:ify.com/systemverilog/systemverilog-copying-objects
+https://chipverify.com/systemverilog/systemverilog-copying-objects
